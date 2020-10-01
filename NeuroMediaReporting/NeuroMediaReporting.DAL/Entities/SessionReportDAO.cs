@@ -14,7 +14,7 @@ namespace NeuroMediaReporting.DAL.Entities
         public string IPAddress { get; set; }
         
         [ColumnMap(Index = 1)]
-        public DateTime EndDate { get; set; }
+        public string EndDate { get; set; }
         
         [ColumnMap(Index = 2)]
         public string URL { get; set; }

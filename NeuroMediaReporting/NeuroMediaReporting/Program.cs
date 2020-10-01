@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NeuroMediaReporting.BLL;
+using System;
 
 namespace NeuroMediaReporting
 {
@@ -6,7 +7,8 @@ namespace NeuroMediaReporting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            NeuroMediaReportingBLL bll = new NeuroMediaReportingBLL();
+            bll.GetAllReports();
         }
     }
 }

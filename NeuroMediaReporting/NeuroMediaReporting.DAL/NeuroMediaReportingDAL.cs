@@ -10,23 +10,28 @@ namespace NeuroMediaReporting.DAL
 {
     public class NeuroMediaReportingDAL
     {
-       public IEnumerable<SessionReportDAO> SearchSessionReports(string dirPath, string mask)
+        public IEnumerable<SessionReportDAO> SearchSessionReports(string dirPath, string mask)
         {
             List<SessionReportDAO> sessionReports = new List<SessionReportDAO>();
 
             foreach (var filePath in GetFileList(dirPath, mask))
             {
-                GetAllReportFromFile(filePath);
+                sessionReports.AddRange(GetAllReportFromFile(filePath));
             }
 
-            return null;
+            return sessionReports;
         }
 
         public IEnumerable<SessionReportDAO> GetAllReportFromFile(string filePath)
         {
-            List<SessionReportDAO> sessionReports = new List<SessionReportDAO>();
-            using (CsvReader<SessionReportDAO> reader = new CsvReader<SessionReportDAO>(filePath))
+            CsvSettings settings = new CsvSettings
             {
+                ColumnDelimiter = '-'
+            };
+
+            List<SessionReportDAO> sessionReports = new List<SessionReportDAO>();
+            using (CsvReader<SessionReportDAO> reader = new CsvReader<SessionReportDAO>(filePath, settings))
+            { 
                 // Read header and use to determine column order
                 reader.ReadHeaders(false);
                 // Read data

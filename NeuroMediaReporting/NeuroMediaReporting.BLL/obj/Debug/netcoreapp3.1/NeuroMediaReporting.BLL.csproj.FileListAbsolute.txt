@@ -1,0 +1,12 @@
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.deps.json
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.pdb
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.pdb
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.csproj.CopyComplete
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.BLL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.BLL.pdb

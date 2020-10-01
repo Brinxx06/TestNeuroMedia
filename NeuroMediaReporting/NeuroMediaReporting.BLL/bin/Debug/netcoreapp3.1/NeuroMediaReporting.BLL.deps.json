@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NeuroMediaReporting.BLL/1.0.0": {
+        "dependencies": {
+          "NeuroMediaReporting.DAL": "1.0.0"
+        },
+        "runtime": {
+          "NeuroMediaReporting.BLL.dll": {}
+        }
+      },
+      "SoftCircuits.CsvParser/2.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/CsvParser.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "NeuroMediaReporting.DAL/1.0.0": {
+        "dependencies": {
+          "SoftCircuits.CsvParser": "2.4.0"
+        },
+        "runtime": {
+          "NeuroMediaReporting.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeuroMediaReporting.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftCircuits.CsvParser/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kJ1R3hvP/rn+4JaVD7OJJOzqxGeyNRQ2J0vjjFbVUhnh1ggw5irAcsA08ruTJhCCRXJblZcszqaDmFuIDfLPKQ==",
+      "path": "softcircuits.csvparser/2.4.0",
+      "hashPath": "softcircuits.csvparser.2.4.0.nupkg.sha512"
+    },
+    "NeuroMediaReporting.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
