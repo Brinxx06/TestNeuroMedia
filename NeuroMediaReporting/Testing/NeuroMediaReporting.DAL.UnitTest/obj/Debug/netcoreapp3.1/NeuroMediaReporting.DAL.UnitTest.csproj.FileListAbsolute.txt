@@ -88,3 +88,10 @@ C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMe
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.AssemblyInfo.cs
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.csproj.CopyComplete
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.pdb
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\bin\Debug\netcoreapp3.1\CsvParser.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.pdb
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\Testing\NeuroMediaReporting.DAL.UnitTest\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.UnitTest.pdb

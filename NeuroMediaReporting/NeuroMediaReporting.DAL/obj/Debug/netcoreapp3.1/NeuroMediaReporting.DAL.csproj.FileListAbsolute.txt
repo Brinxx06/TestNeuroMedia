@@ -3,3 +3,7 @@ C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaRepor
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.csprojAssemblyReference.cache
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.AssemblyInfoInputs.cache
 C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\bin\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.pdb
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.dll
+C:\Users\Brandon\source\repos\TestNeuroMedia\NeuroMediaReporting\NeuroMediaReporting.DAL\obj\Debug\netcoreapp3.1\NeuroMediaReporting.DAL.pdb
