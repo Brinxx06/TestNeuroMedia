@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zXGsBmg3AFBADgcj3xiyJdSX3pze0wkV8spIT79gXNol5IBAfqa/bVxIz+dmtkmzqPdzzeoy6zoncE1O0Mqf6A==",
+  "dgSpecHash": "3UGTZH5Xr5qAqwIYh+8TMlla5Fv2UrTo6lRmTyFsbhFL+ZmkEqxXYhuiz+l35M6oINzPoGYYydKlEtVOKv7uFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Brandon\\source\\repos\\TestNeuroMedia\\NeuroMediaReporting\\NeuroMediaReporting\\NeuroMediaReporting.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\softcircuits.csvparser\\2.4.0\\softcircuits.csvparser.2.4.0.nupkg.sha512",
     "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

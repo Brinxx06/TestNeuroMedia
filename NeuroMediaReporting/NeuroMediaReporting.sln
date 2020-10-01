@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroMediaReporting", "NeuroMediaReporting\NeuroMediaReporting.csproj", "{3BC55F75-2CEB-4013-BDAF-9A1A83094473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroMediaReporting.DAL", "NeuroMediaReporting.DAL\NeuroMediaReporting.DAL.csproj", "{747A46BC-BB3E-43BE-B446-D65EF4E61621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroMediaReporting.BLL", "NeuroMediaReporting.BLL\NeuroMediaReporting.BLL.csproj", "{02DA64CD-4C9A-4C11-BF1D-15F36C060C72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{069BC484-4A44-4010-8C50-61EA4A8021F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroMediaReporting.DAL.UnitTest", "Testing\NeuroMediaReporting.DAL.UnitTest\NeuroMediaReporting.DAL.UnitTest.csproj", "{CFB6153D-0C73-4372-AC1B-78723D48AC04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +23,24 @@ Global
 		{3BC55F75-2CEB-4013-BDAF-9A1A83094473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC55F75-2CEB-4013-BDAF-9A1A83094473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC55F75-2CEB-4013-BDAF-9A1A83094473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747A46BC-BB3E-43BE-B446-D65EF4E61621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747A46BC-BB3E-43BE-B446-D65EF4E61621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747A46BC-BB3E-43BE-B446-D65EF4E61621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747A46BC-BB3E-43BE-B446-D65EF4E61621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DA64CD-4C9A-4C11-BF1D-15F36C060C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DA64CD-4C9A-4C11-BF1D-15F36C060C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DA64CD-4C9A-4C11-BF1D-15F36C060C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DA64CD-4C9A-4C11-BF1D-15F36C060C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB6153D-0C73-4372-AC1B-78723D48AC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6153D-0C73-4372-AC1B-78723D48AC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6153D-0C73-4372-AC1B-78723D48AC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6153D-0C73-4372-AC1B-78723D48AC04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFB6153D-0C73-4372-AC1B-78723D48AC04} = {069BC484-4A44-4010-8C50-61EA4A8021F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18358DA8-931E-4845-A16A-8338A6908B45}
